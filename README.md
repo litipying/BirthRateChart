@@ -1,6 +1,6 @@
 # Install Virtual Environment
 ```
-python3 -m venv venv
+python -m venv venv
 ```
 
 # Activate Virtual Environment
